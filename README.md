@@ -1,2 +1,2 @@
 # Python-Projects
-The Projects that are done by using basic python
+In this repository, I'm uploading the projects which are done by using Python, Numpy, Pandas and Matplotlib frameworks.
